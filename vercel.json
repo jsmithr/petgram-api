@@ -11,11 +11,5 @@
       "source": "/(.*)",
       "destination": "server.js"
     }
-  ],
-  "routes": [
-    {
-      "src": "(.*).png",
-      "dest": "/$1.png"
-    }
   ]
 }
