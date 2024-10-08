@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json",
-    "vercel-build": "json-server --watch db.json"
+    "start": "node api/server.js"
   },
   "author": "johannsmiithr@gmail.com",
   "license": "ISC",
