@@ -1,14 +1,9 @@
 {
-  "functions": {
-    "api/server.js": {
-      "memory": 1024,
-      "includeFiles": "db.json"
-    }
-  },
-  "rewrites": [
+  "version": 1.0,
+  "builds": [
     {
-      "source": "/(.*)",
-      "destination": "api/server.js"
+      "use": "@vercel/static-build",
+      "src": "package.json"
     }
   ],
   "routes": [
