@@ -1,7 +1,7 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "functions": {
-    "api/server.js": {
+    "server.js": {
       "memory": 1024,
       "includeFiles": "db.json"
     }
