@@ -2,13 +2,14 @@
   "name": "petgram-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "api/server.js",
   "scripts": {
     "start": "node api/server.js"
   },
   "author": "johannsmiithr@gmail.com",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "json-server": "^1.0.0-beta.3"
   }
 }
