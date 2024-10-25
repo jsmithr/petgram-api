@@ -28,42 +28,42 @@
       "id": 1,
       "name": "cats",
       "emoji": "🐱",
-      "cover": "https://petgram-api-lovat.vercel.app/assets/category/category_cats.jpg",
+      "cover": "https://petgram-api-lovat.vercel.app/assets/categories/category_cats.jpg",
       "path": "/photos/cats"
     },
     {
       "id": 2,
       "name": "dogs",
       "emoji": "🐶",
-      "cover": "https://petgram-api-lovat.vercel.app/assets/category/category_dogs.jpg",
+      "cover": "https://petgram-api-lovat.vercel.app/assets/categories/category_dogs.jpg",
       "path": "/photos/dogs"
     },
     {
       "id": 3,
       "name": "hamsters",
       "emoji": "🐹",
-      "cover": "https://petgram-api-lovat.vercel.app/assets/category/category_hamsters.jpg",
+      "cover": "https://petgram-api-lovat.vercel.app/assets/categories/category_hamsters.jpg",
       "path": "/photos/hamsters"
     },
     {
       "id": 4,
       "name": "rabbits",
       "emoji": "🐰",
-      "cover": "https://petgram-api-lovat.vercel.app/assets/category/category_rabbits.jpg",
+      "cover": "https://petgram-api-lovat.vercel.app/assets/categories/category_rabbits.jpg",
       "path": "/photos/rabbits"
     },
     {
       "id": 5,
       "name": "birds",
       "emoji": "🐦",
-      "cover": "https://petgram-api-lovat.vercel.app/assets/category/category_birds.jpg",
+      "cover": "https://petgram-api-lovat.vercel.app/assets/categories/category_birds.jpg",
       "path": "/photos/birds"
     },
     {
       "id": 6,
       "name": "fishes",
       "emoji": "🐠",
-      "cover": "https://petgram-api-lovat.vercel.app/assets/category/category_fishes.jpg",
+      "cover": "https://petgram-api-lovat.vercel.app/assets/categories/category_fishes.jpg",
       "path": "/photos/fishes"
     }
   ],
